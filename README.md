@@ -1,4 +1,4 @@
-## HR
+## HR Dashboard
 The HR Analytics Dashboard provides an interactive visualization of key metrics related to employee demographics, performance, attrition, and job satisfaction. It helps HR departments monitor organizational health and make data-driven decisions by offering insights into areas 
 
 - Total Employees: 401 employees with details on gender, marital status, and education.
